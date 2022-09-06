@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessS3Function", "AWSServerlessS3Function\AWSServerlessS3Function.csproj", "{10C8D731-CB38-4C05-9D58-30D804115B45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessS3Function.Tests", "AWSServerlessS3Function.Tests\AWSServerlessS3Function.Tests.csproj", "{F9E3C565-42B8-4137-8879-7215F656D892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C8D731-CB38-4C05-9D58-30D804115B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C8D731-CB38-4C05-9D58-30D804115B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C8D731-CB38-4C05-9D58-30D804115B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C8D731-CB38-4C05-9D58-30D804115B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E3C565-42B8-4137-8879-7215F656D892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E3C565-42B8-4137-8879-7215F656D892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E3C565-42B8-4137-8879-7215F656D892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E3C565-42B8-4137-8879-7215F656D892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D5F263-1C2C-4E4A-8563-400439A32201}
+	EndGlobalSection
+EndGlobal
